@@ -1,0 +1,19 @@
+List inchange = [
+  "INR",
+  "CNY",
+  "USD",
+  "IDR",
+  "PKR",
+  "BRL",
+  "NGN",
+  "BDT",
+  "RUB",
+  "MXN",
+  "JPY",
+  "EUR",
+  "GBP",
+  "EUR",
+  "TRY",
+  "EUR",
+  "THB"
+];
